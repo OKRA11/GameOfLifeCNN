@@ -8,7 +8,7 @@ Accuracy
 
 Рождение 0.9260605573654175 Смерть 0.943498432636261 Выживание 0.8224260807037354 Остается мертвым 0.9395191669464111
 
-<img width="1470" height="403" alt="download" src="https://github.com/user-attachments/assets/62d64a3b-5f69-4b6b-9288-389c369351b5" />
+<img width="1470" height="403" alt="download" src="https://github.com/user-attachments/assets/ad6d481a-cf21-4d5a-a9d5-a3802215e285" />
 
 <img width="456" height="405" alt="download" src="https://github.com/user-attachments/assets/30b56b98-0a84-419d-815b-5d5a5b606399" />
 
