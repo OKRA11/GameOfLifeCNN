@@ -12,6 +12,16 @@ Accuracy
 
 <img width="1470" height="403" alt="download" src="https://github.com/user-attachments/assets/3ba7966b-f21b-4817-9ad1-943977b171b8" />
 
+Highlife normal
+
+Средний процент правильных: 94.13400292396545
+
+Accuracy 0.9167070984840393 0.9442595839500427 0.9375316500663757 0.9533738493919373
+
+<img width="1470" height="403" alt="download" src="https://github.com/user-attachments/assets/62d64a3b-5f69-4b6b-9288-389c369351b5" />
+
+<img width="464" height="413" alt="download" src="https://github.com/user-attachments/assets/36b61b2c-158b-4db7-b084-e5a52138ffe7" />
+
 HighLife less
 
 Средний процент правильных: 99.8464047908783
