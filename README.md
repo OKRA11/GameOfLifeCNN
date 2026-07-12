@@ -1,5 +1,15 @@
 # GameOfLifeCNN
 
+Default
+
+100.0
+
+Accuracy 1.0 1.0 1.0 1.0
+
+<img width="1468" height="403" alt="download" src="https://github.com/user-attachments/assets/bfc0ea75-2a4c-426b-a732-270cf3afd5e4" />
+
+<img width="476" height="418" alt="download" src="https://github.com/user-attachments/assets/1743c69d-56a4-4507-bc09-ace23001a265" />
+
 HighLife more
 
 Средний процент правильных: 97.60859608650208
