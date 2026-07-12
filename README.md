@@ -46,3 +46,12 @@ Accuracy
 
 <img width="464" height="413" alt="download" src="https://github.com/user-attachments/assets/7ea52623-8064-4aa8-b7fa-1de0143d7783" />
 
+Mixed
+
+Средний процент: 61.729466915130615
+
+0.0 1.0 0.0 1.0
+
+<img width="1470" height="403" alt="download" src="https://github.com/user-attachments/assets/13a6a476-60b0-4adb-bf26-7c681ed3820e" />
+
+<img width="456" height="405" alt="download" src="https://github.com/user-attachments/assets/06f8fd37-05ce-4852-a03a-339c8e4597da" />
