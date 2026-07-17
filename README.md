@@ -1,5 +1,7 @@
 # GameOfLifeCNN
 
+https://drive.google.com/drive/folders/1XblhsUXwaRZz5m-YPrGqk1h1rXvossbD?usp=sharing
+
 Default
 
 100.0
