@@ -68,3 +68,13 @@ Normal cropped
 <img width="1468" height="403" alt="download" src="https://github.com/user-attachments/assets/8fab1592-8b13-4fb1-a16c-29adaf860b8e" />
 
 <img width="456" height="413" alt="download" src="https://github.com/user-attachments/assets/faf01148-9dec-4ebb-812d-0ee705bc741f" />
+
+Highlife cropped
+
+89.27446007728577
+
+0.9206406474113464 0.947397768497467 0.9562324285507202 0.9708244204521179
+
+<img width="1469" height="403" alt="download" src="https://github.com/user-attachments/assets/50ac0227-dd5f-4e98-bc01-9ba834250875" />
+
+<img width="456" height="406" alt="download" src="https://github.com/user-attachments/assets/1681b82a-0929-4712-9775-40c6e381076f" />
