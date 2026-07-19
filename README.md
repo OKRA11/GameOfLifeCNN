@@ -57,3 +57,14 @@ Mixed
 <img width="1470" height="403" alt="download" src="https://github.com/user-attachments/assets/13a6a476-60b0-4adb-bf26-7c681ed3820e" />
 
 <img width="456" height="405" alt="download" src="https://github.com/user-attachments/assets/06f8fd37-05ce-4852-a03a-339c8e4597da" />
+
+
+Normal cropped
+
+95.55673599243164
+
+0.9206406474113464 0.947397768497467 0.9562324285507202 0.9708244204521179
+
+<img width="1468" height="403" alt="download" src="https://github.com/user-attachments/assets/8fab1592-8b13-4fb1-a16c-29adaf860b8e" />
+
+<img width="456" height="413" alt="download" src="https://github.com/user-attachments/assets/faf01148-9dec-4ebb-812d-0ee705bc741f" />
