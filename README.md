@@ -88,3 +88,13 @@ Highlife less cropped
 <img width="1468" height="403" alt="download" src="https://github.com/user-attachments/assets/97554257-73e6-4041-a5cc-2f9b5a8a7419" />
 
 <img width="456" height="413" alt="download" src="https://github.com/user-attachments/assets/29006be1-c088-4a7d-8936-e900434b16f9" />
+
+Highlife more cropped
+
+91.86503887176514
+
+0.9108299016952515 0.9644324779510498 0.9526128768920898 0.9858204126358032
+
+<img width="1468" height="403" alt="download" src="https://github.com/user-attachments/assets/1a599e55-0e68-4621-93a8-0faebb1ddae8" />
+
+<img width="456" height="405" alt="download" src="https://github.com/user-attachments/assets/40f4d446-ba94-40c5-89ae-b06c979fccde" />
