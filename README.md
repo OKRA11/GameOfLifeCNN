@@ -55,3 +55,31 @@
 <img width="1387" height="490" alt="download" src="https://github.com/user-attachments/assets/1eb2df49-601b-474a-9e33-51c4cebba359" />
 
 <img width="898" height="1180" alt="download" src="https://github.com/user-attachments/assets/15c3b9c6-b860-448a-845a-1c178903ec83" />
+
+circular 30 эпох
+
+<img width="1983" height="593" alt="download" src="https://github.com/user-attachments/assets/fd928631-756b-49e3-be9a-9b966ab1c723" />
+
+<img width="740" height="397" alt="download" src="https://github.com/user-attachments/assets/cde8933d-ad07-4bce-b3ed-86e4992e42b4" />
+
+=======================================================
+
+ИТОГИ ABLATION STUDY
+
+=======================================================
+
+1: Только пожар вчера (аналог GoL)       IoU = 0.2616
+
+2: + Растительность (NDVI)               IoU = 0.2671  (+0.0055)
+
+3: + Пожарная опасность (ERC)            IoU = 0.2715  (+0.0044)
+
+4: + Ветер (скорость + направление)      IoU = 0.2693  (+-0.0022)
+
+5: + Засуха (PDSI)                       IoU = 0.2794  (+0.0101)
+
+6: Все 12 каналов                        IoU = 0.2719  (+-0.0076)
+
+<img width="1387" height="490" alt="download" src="https://github.com/user-attachments/assets/4daa9d0e-83d2-4a13-a9da-78230586ee33" />
+
+<img width="898" height="1180" alt="download" src="https://github.com/user-attachments/assets/ed74ba54-0859-4aee-a3c8-a5334abd3f61" />
