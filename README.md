@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/rufaiyusufzakari/enhanced-and-modified-next-day-
 
 Модель - U-Net
 
-Метрики - IoU и AUC-ROC. Показывает хорошие результаты, значительно превосходящие линейные модели.
+Метрики - IoU (0.13), Recall (0.26), Precision (0.19) и AUC-ROC.
 
 Прогнозирование потенциала высокоинтенсивных лесных пожаров (MTS-ML)
 
